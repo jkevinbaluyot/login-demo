@@ -5,6 +5,12 @@ ruby "3.0.0"
 
 gem 'devise'
 
+gem 'dotenv-rails'
+
+gem 'omniauth'
+
+gem 'omniauth-google-oauth2'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 
