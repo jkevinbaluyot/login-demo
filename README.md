@@ -1,24 +1,9 @@
-# README
+# Create Login in Ruby on Rails
+Blog tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**by: John Kevin baluyot**
 
-Things you may want to cover:
+Articles used as reference: \
+Devto: https://dev.to/jkevinbaluyot/create-login-in-ruby-on-rails-33ij
+Hashnode: https://webology.hashnode.dev/create-login-in-ruby-on-rails
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
