@@ -1,9 +1,9 @@
-# Create Login in Ruby on Rails
+# Google Login Rails 7 tutorial
 Blog tutorial
 
-**by: John Kevin baluyot**
+**by: John Kevin Baluyot**
 
-Articles used as reference: \
-Devto: https://dev.to/jkevinbaluyot/create-login-in-ruby-on-rails-33ij
-Hashnode: https://webology.hashnode.dev/create-login-in-ruby-on-rails
+Articles: \
+Devto: https://dev.to/jkevinbaluyot/google-login-rails-7-tutorial-1ai6
+Hashnode: https://webology.hashnode.dev/google-login-rails-7-tutorial-1
 
